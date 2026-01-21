@@ -1,0 +1,12 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Ignore backups and exports (optional - you may want to keep these)
+# database backups/
+# Exports/
